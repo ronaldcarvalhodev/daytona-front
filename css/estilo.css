@@ -167,3 +167,10 @@ body {
   color: white;
 }
 
+.btn-sucess{
+  background-color: #223dff;
+}
+
+.btn-danger{
+  background-color: #00d0c6;
+}
